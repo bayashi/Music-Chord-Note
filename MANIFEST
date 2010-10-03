@@ -1,0 +1,9 @@
+Build.PL
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Music/Chord/Note.pm
+t/00.load.t
+t/01.rehearsal.t
+META.yml

@@ -1,0 +1,20 @@
+Revision history for Music-Chord-Note
+
+0.0.6  Tue Mar 10 20:45:00 2009
+       added all_chords_list method and tests.
+
+0.0.5  Tue Dec 16 11:45:00 2008
+       added chord_num method and tests.
+
+0.0.4  Fri Dec 12 09:40:00 2008
+       little fixed
+
+0.0.3  mon Dec 08 16:16:16 2008
+       add scale func & test
+       
+0.0.2  mon Dec 01 12:12:12 2008
+       fixed chord list.
+
+0.0.1  Tue Nov 29 10:10:10 2008
+       Initial release.
+
