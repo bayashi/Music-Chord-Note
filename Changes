@@ -1,5 +1,9 @@
 Revision history for Music-Chord-Note
 
+0.06   7:30 2012/10/10
+       changed style of version
+       supported Travis-CI on the github
+
 0.0.6  Tue Mar 10 20:45:00 2009
        added all_chords_list method and tests.
 
