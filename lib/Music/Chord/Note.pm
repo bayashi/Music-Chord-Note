@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use Carp qw( croak );
 
-our $VERSION = '0.06';
+our $VERSION = '0.061';
 
 my @tone_list = ('C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B',
                  'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B');

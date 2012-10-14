@@ -2,8 +2,11 @@ Build.PL
 Changes
 MANIFEST
 Makefile.PL
-README
+README.pod
 lib/Music/Chord/Note.pm
 t/00.load.t
 t/01.rehearsal.t
+xt/01_perlcritic.t
+xt/02_pod-coverage.t
+xt/03_pod.t
 META.yml

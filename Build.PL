@@ -8,6 +8,7 @@ my $builder = Module::Build->new(
     dist_author         => 'Dai Okabayashi <bayashi@cpan.org>',
     dist_version_from   => 'lib/Music/Chord/Note.pm',
     requires => {
+        'perl' => '5.6.2',
         'Test::More' => 0,
         'Carp'       => 0,
     },
