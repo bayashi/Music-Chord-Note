@@ -131,7 +131,7 @@ sub all_chords_list
 {
     my $self = shift;
 
-    return [keys %{$base_chord_list}];
+    return [ grep { $_ ne 'base' } keys %{$base_chord_list} ];
 }
 
 1;
