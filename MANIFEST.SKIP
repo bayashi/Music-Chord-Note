@@ -9,6 +9,8 @@
 ^blib/
 ^_build/
 ^cover_db/
+^local/
+^extlib/
 ^pm_to_blib
 ^MakeMaker-\d
 \.gz$
@@ -23,5 +25,10 @@
 ^\.shipit$
 ^\.travis\.yml$
 ^\.git/
+^\.github/
 \.sw[po]$
-^MYMETA.yml$
+^MYMETA\.*$
+^META\.yml$
+^MYMETA\.yml$
+^MYMETA\.json$
+^Music-Chord-Note-*
