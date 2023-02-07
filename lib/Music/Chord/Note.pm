@@ -9,7 +9,7 @@ our $VERSION = '0.10';
 my @tone_list = ('C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B',
                  'C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B');
 
-my $base_chord_list = {
+our $base_chord_list = {
     'base'     => '0,4,7',
     '-5'       => '0,4,6',
     '-6'       => '0,4,7,8',
