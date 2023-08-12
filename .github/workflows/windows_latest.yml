@@ -7,13 +7,16 @@ on:
       - '**windows**'
     tags-ignore:
       - '*'
+    paths-ignore:
+      - '**/*.md'
+      - '**/.gitignore'
 
 jobs:
   perl:
     runs-on: windows-latest
 
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v3
       - name: perl -V
         run: perl -V
       - name: Install dependencies
