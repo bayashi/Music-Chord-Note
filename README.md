@@ -1,18 +1,13 @@
-=encoding utf8
+# Music::Chord::Note
 
-
-This is Perl module B<Music::Chord::Note>.
-
-=begin html
+This is Perl module `Music::Chord::Note`.
 
 <a href="https://github.com/bayashi/Music-Chord-Note/blob/main/LICENSE"><img src="https://img.shields.io/badge/LICENSE-Artistic%202.0-GREEN.png"></a> <a href="https://github.com/bayashi/Music-Chord-Note/actions"><img src="https://github.com/bayashi/Music-Chord-Note/workflows/main/badge.svg?_t=1675942646"/></a> <a href="https://coveralls.io/r/bayashi/Music-Chord-Note"><img src="https://coveralls.io/repos/bayashi/Music-Chord-Note/badge.png?_t=1675942646&branch=main"/></a>
 
-=end html
 
+## INSTALLATION
 
-=head1 INSTALLATION
-
-Music::Chord::Note installation is straightforward. If your CPAN shell is set up,
+`Music::Chord::Note` installation is straightforward. If your CPAN shell is set up,
 you should just be able to do
 
     % cpan Music::Chord::Note
@@ -27,25 +22,24 @@ Then install it:
     % sudo make install
 
 
-=head1 DOCUMENTATION
+## DOCUMENTATION
 
-Music::Chord::Note documentation is available as in POD. So you can do:
+`Music::Chord::Note` documentation is available as in POD. So you can do:
 
     % perldoc Music::Chord::Note
 
 
-=head1 REPOSITORY
+## REPOSITORY
 
-Music::Chord::Note is hosted on github
-L<http://github.com/bayashi/Music-Chord-Note>
+`Music::Chord::Note` is hosted on github: http://github.com/bayashi/Music-Chord-Note
 
 
-=head1 LICENSE
+## LICENSE
 
 This module is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself. See L<perlartistic>.
 
 
-=head1 AUTHOR
+## AUTHOR
 
-Dai Okabayashi E<lt>bayashi@cpan.orgE<gt>
+Dai Okabayashi bayashi@cpan.org
